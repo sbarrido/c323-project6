@@ -1,1 +1,1 @@
-# c323-project6
+# c323-project6 Notes App
